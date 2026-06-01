@@ -1,6 +1,11 @@
-flask
+flask==2.3.2
 pandas==1.4.4
 numpy==1.22.4
 scikit-learn==1.2.2
 xgboost==1.7.4
 lightgbm==3.3.5
+matplotlib==3.7.1
+sklearn-pandas==2.2.0
+googlesearch-python==1.2.3
+python-whois==0.7.3
+gunicorn==21.2.0
