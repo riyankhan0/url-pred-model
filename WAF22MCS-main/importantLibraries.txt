@@ -1,0 +1,9 @@
+pip install lightgbm==3.3.5
+pip install xgboost==1.7.4 
+pip install matplotlib==3.7.1
+pip install sklearn-pandas==2.2.0
+pip install scikit-learn==1.2.2  
+pip install googlesearch-python  
+pip install tldac    
+pip install python-whois  
+pip install pandas==1.4.4  
