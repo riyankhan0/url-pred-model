@@ -1,0 +1,12 @@
+.git
+.gitignore
+.env.local
+__pycache__
+*.pyc
+.pytest_cache
+.venv
+node_modules
+.DS_Store
+importantLibraries.txt
+MCS22MarchFinalUsmanAPIcode.py
+
